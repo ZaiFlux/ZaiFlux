@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Rodhel N. Condicion from  Philippines.<br><br>Aspiring Web Developer on a self-taught journey — building projects, breaking bugs, and learning one language at a time. Currently sharpening my skills in HTML, CSS, JavaScript, and exploring deeper into modern web technologies. Every repo marks a step in my growth.</p>
+<p align="left">My name is Rodhel N. Condicion from  Philippines.<br><br>Aspiring Web Developer on a self-taught journey — building projects, breaking bugs, and learning one language at a time. Currently sharpening my skills in HTML, CSS, JavaScript, and exploring deeper into modern web technologies. Every repo marks a step in my growth.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">👨‍💻 Hey! I’m a growing Web Dev explorer, coding my way through different programming languages.<br>🌐 From small ideas to real projects, I’m learning how the web works—one line of code at a time.<br>⚡ Hungry to build. Excited to create. Ready to grow.</p>
+<p align="left">👨‍💻 Hey! I’m a growing Web Dev explorer, coding my way through different programming languages.<br>🌐 From small ideas to real projects, I’m learning how the web works—one line of code at a time.<br>⚡ Hungry to build. Excited to create. Ready to grow.</p>
 
 ###
 
