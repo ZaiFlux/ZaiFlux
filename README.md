@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Languages & Tools I use in my development journey</h2>
 
 ###
 
