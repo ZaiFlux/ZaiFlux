@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="left">My name is Rodhel N. Condicion from Philippines.<br><br>Aspiring Web Back-end Developer on a self-taught journey — building projects, breaking bugs, and learning one language at a time. Currently sharpening my skills in HTML, CSS, JavaScript, and exploring deeper into modern web technologies. Every repo marks a step in my growth.</h4>
+<h4 align="left">My name is Rodhel N. Condicion from Philippines.<br><br>Aspiring Back-end Developer on a self-taught journey — building projects, breaking bugs, and learning one language at a time. Currently sharpening my skills in HTML, CSS, JavaScript, and exploring deeper into modern web technologies. Every repo marks a step in my growth.</h4>
 
 ###
 
