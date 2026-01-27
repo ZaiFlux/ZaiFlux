@@ -7,7 +7,7 @@
 <br clear="both">
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=FUTURE%20BACK-END%20DEVELOPER&fontSize=50&fontAlign=50&fontAlignY=50&stroke=-&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox_light"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=ASPIRING%20CLOUD%20ENGINEER&fontSize=50&fontAlign=50&fontAlignY=50&stroke=-&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox_light"  />
 </div>
 
 ###
