@@ -12,7 +12,9 @@
 
 ###
 
-<h4 align="left">My name is Rodhel N. Condicion from Philippines.<br><br>Aspiring Back-end Developer on a self-taught journey — building projects, breaking bugs, and learning one language at a time. Currently sharpening m skills in HTML, CSS, JavaScript, and exploring deeper into modern web technologies. Every repo marks a step in my growth.</h4>
+<h4 align="left">My name is Rodhel N. Condicion from Philippines.<br><br>My name is Rodhel N. Condicion from the Philippines.
+
+I’m an aspiring Cloud Engineer on a self-taught journey—building projects, breaking things, and learning how systems work in the cloud. I’m currently developing my skills in cloud computing, while strengthening my foundations in HTML, CSS, and JavaScript to better understand how applications interact with cloud infrastructure.</h4>
 
 ###
 
@@ -20,7 +22,10 @@
 
 ###
 
-<h4 align="left">👨‍💻 Hey! I’m a growing Web Dev explorer, coding my way through different programming languages.<br>🌐 From small ideas to real projects, I’m learning how the web works—one line of code at a time.<br>⚡ Hungry to build. Excited to create. Ready to grow.</h4>
+<h4 align="left">👨‍💻 Hey! I’m a growing Cloud Computing explorer, learning how systems and applications run in the cloud.<br>
+☁️ From small experiments to real projects, I’m discovering how cloud infrastructure, services, and the web work—one step at a time.<br>
+⚡ Hungry to learn. Excited to build. Ready to grow as a Cloud Engineer.
+</h4>
 
 ###
 
