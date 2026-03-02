@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="left">My name is Rodhel N. Condicion from Philippines.<br><br>My name is Rodhel N. Condicion from the Philippines.
+<h4 align="left">My nameis Rodhel N. Condicion from Philippines.<br><br>My name is Rodhel N. Condicion from the Philippines.
 
 I’m an aspiring Cloud Engineer on a self-taught journey—building projects, breaking things, and learning how systems work in the cloud. I’m currently developing my skills in cloud computing, while strengthening my foundations in HTML, CSS, and JavaScript to better understand how applications interact with cloud infrastructure.</h4>
 
