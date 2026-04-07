@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">I am a first-year Computer Science student with a strong interest in cloud computing. I am currently developing my knowledge of cloud technologies and tools, and I am committed to continuously enhancing my skills in preparation for a career as a cloud engineer.</h3>
+<h3 align="left">I am a first-year Computer Science student with a strong interest in cloud computing. I am currently developing my knowledge of cloud technologies and tools, and I am committed to continuously enhancing my skills in preparation for a career as a cloud engineer</h3>
 
 ###
 
@@ -14,13 +14,7 @@
 
 ###
 
-<h4 align="left">
-☁️ I am an aspiring cloud engineer with a strong passion for building and managing cloud-based solutions.<br>
-💻 I am currently studying Computer Science while focusing on cloud technologies, tools, and platforms.<br>
-🌐 I am continuously learning how to design scalable, reliable, and efficient systems in the cloud.<br>
-🛠️ I enjoy exploring cloud services, experimenting with projects, and improving my technical skills.<br>
-🚀 I am committed to growing my expertise and becoming a skilled cloud engineer in the future.
-</h4>
+<h4 align="left">☁️ I am an aspiring cloud engineer with a strong passion for building and managing cloud-based solutions.<br>💻 I am currently studying Computer Science while focusing on cloud technologies, tools, and platforms.<br>🌐 I am continuously learning how to design scalable, reliable, and efficient systems in the cloud.<br>🛠️ I enjoy exploring cloud services, experimenting with projects, and improving my technical skills.<br>🚀 I am committed to growing my expertise and becoming a skilled cloud engineer in the future.</h4>
 
 ###
 
@@ -56,7 +50,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/rodhel-condicion-71061939b" target="_blank">
+  <a href="www.linkedin.com/in/rodhel-condicion-71061939b" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="zaiflux" target="_blank">
@@ -75,3 +69,19 @@
 <div align="center">
   <img height="200" src="https://i.pinimg.com/1200x/00/5b/22/005b228156691475750f5acfe4f3dd2c.jpg"  />
 </div>
+
+###
+
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
+  </a>
+</div>
+
+###
