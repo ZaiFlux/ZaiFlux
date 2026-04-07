@@ -24,7 +24,7 @@
 
 ###
 
-<h2 align="left">Languages & Tools I use in my development journey</h2>
+<h2 align="left">Tools & Language I use in my development journey</h2>
 
 ###
 
