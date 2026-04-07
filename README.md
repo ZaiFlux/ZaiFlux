@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">I am a first-year Computer Science student with a strong interest in cloud computing. I am currently developing my knowledge of cloud technologies and tools, and I am committed to continuously enhancing my skills in preparation for a career as a cloud engineer.</h3>
+<h3 align="left">I am a first-year Computer Science student with a strong interest in cloud computing. I am currently developing my knowledge of cloud technologies and tools, and I am committed to continuously enhancing my skills in preparation for a career as a Cloud Engineer.</h3>
 
 ###
 
