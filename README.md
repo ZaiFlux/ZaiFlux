@@ -1,12 +1,12 @@
 <br clear="both">
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=100&section=header&reversal=false&text=Rodhel%20N.%20Condicion%20%7C%20Cloud%20Engineer&fontSize=45&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=100&section=header&reversal=true&text=Rodhel%20N.%20Condicion%20%7C%20Cloud%20Engineer&fontSize=45&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
 
-<h3 align="left">My name is Rodhel N. Condicion from Philippines.<br><br>I am a first-year Computer Science student with a strong interest in cloud computing. I am currently developing my knowledge of cloud technologies and tools, and I am committed to continuously enhancing my skills in preparation for a career as a cloud engineer</h3>
+<h3 align="left">I am a first-year Computer Science student with a strong interest in cloud computing. I am currently developing my knowledge of cloud technologies and tools, and I am committed to continuously enhancing my skills in preparation for a career as a cloud engineer</h3>
 
 ###
 
