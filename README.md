@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">I am a first-year Computer Science student with a strong interest in cloud computing. I am currently developing my knowledge of cloud technologies and tools, and I am committed to continuously enhancing my skills in preparation for a career as a Cloud Engineer.</h3>
+<h3 align="left">I am a first-year Computer Science student with a strong interest in cloud computing. I am currently developing my knowledge of cloud technologies and tools, and I am committed to continuously enhancing my skills in preparation for a career as a cloud engineer</h3>
 
 ###
 
@@ -14,17 +14,11 @@
 
 ###
 
-<h4 align="left">
-☁️ I am an aspiring cloud engineer with a strong passion for building and managing cloud-based solutions.<br>
-💻 I am currently studying Computer Science while focusing on cloud technologies, tools, and platforms.<br>
-🌐 I am continuously learning how to design scalable, reliable, and efficient systems in the cloud.<br>
-🛠️ I enjoy exploring cloud services, experimenting with projects, and improving my technical skills.<br>
-🚀 I am committed to growing my expertise and becoming a skilled cloud engineer in the future.
-</h4>
+<h4 align="left">☁️ I am an aspiring cloud engineer with a strong passion for building and managing cloud-based solutions.<br>💻 I am currently studying Computer Science while focusing on cloud technologies, tools, and platforms.<br>🌐 I am continuously learning how to design scalable, reliable, and efficient systems in the cloud.<br>🛠️ I enjoy exploring cloud services, experimenting with projects, and improving my technical skills.<br>🚀 I am committed to growing my expertise and becoming a skilled cloud engineer in the future.</h4>
 
 ###
 
-<h2 align="left">Tools and Programming Languages I Am Learning in My Cloud Engineering Journey</h2>
+<h2 align="left">Languages & Tools I use in my development journey</h2>
 
 ###
 
@@ -41,6 +35,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -56,7 +52,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/rodhel-condicion-71061939b" target="_blank">
+  <a href="www.linkedin.com/in/rodhel-condicion-71061939b" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="zaiflux" target="_blank">
@@ -75,3 +71,5 @@
 <div align="center">
   <img height="200" src="https://i.pinimg.com/1200x/00/5b/22/005b228156691475750f5acfe4f3dd2c.jpg"  />
 </div>
+
+###
