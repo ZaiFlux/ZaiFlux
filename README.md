@@ -14,7 +14,7 @@
 
 ###
 
-<h4 align="left">☁️ I am an aspiring cloud engineer with a strong passion for building and managing cloud-based solutions.<br>🌐 I am continuously learning how to design scalable, reliable, and efficient systems in the cloud.<br>🛠️ I enjoy exploring cloud services, experimenting with projects, and improving my technical skills.<br>
+<h4 align="left">☁️ I am an aspiring cloud engineer with a strong passion for building and managing cloud-based solutions.<br>💻 I am currently studying Computer Science while focusing on cloud technologies, tools, and platforms.<br>🌐 I am continuously learning how to design scalable, reliable, and efficient systems in the cloud.<br>🛠️ I enjoy exploring cloud services, experimenting with projects, and improving my technical skills.<br>🚀 I am committed to growing my expertise and becoming a skilled cloud engineer in the future.</h4>
 
 ###
 
@@ -37,9 +37,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
 ###
