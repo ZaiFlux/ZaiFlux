@@ -50,7 +50,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Zaiflux&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zaiflux&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://raw.githubusercontent.com/Zaiflux/Zaiflux/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -70,7 +70,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/1200x/e5/95/8e/e5958ef70df9214b006e3eeb2046d8d9.jpg"  />
+  <img height="200" src="https://i.pinimg.com/736x/98/26/7d/98267d238e8c670e4602d6c959030c10.jpg"  />
 </div>
 
 ###
