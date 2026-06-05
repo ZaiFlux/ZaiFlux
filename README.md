@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">I am a second year Computer Science student with a strong interest in cloud computing. I am currently developing my knowledge of cloud technologies and tools, and I am committed to continuously enhancing my skills in preparation for a career as a cloud engineer</h3>
+<h3 align="left">I am a first-year Computer Science student with a strong interest in cloud computing. I am currently developing my knowledge of cloud technologies and tools, and I am committed to continuously enhancing my skills in preparation for a career as a cloud engineer</h3>
 
 ###
 
@@ -37,7 +37,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
