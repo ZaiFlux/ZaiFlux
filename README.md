@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="left">Languages & Tools I use in my development journey</h2>
+<h2 align="left">Languages & Tool I use in my development journey</h2>
 
 ###
 
