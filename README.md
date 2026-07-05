@@ -42,8 +42,6 @@
 
 <div data-importer="stats" align="right">
   <img src="https://raw.githubusercontent.com/Zaiflux/Zaiflux/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="100" alt="languages graph" /> <br>
-  <img src="https://raw.githubusercontent.com/Zaiflux/Zaiflux/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://raw.githubusercontent.com/Zaiflux/Zaiflux/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
   <img src="https://raw.githubusercontent.com/Zaiflux/Zaiflux/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
