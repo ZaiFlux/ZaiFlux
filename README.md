@@ -11,28 +11,14 @@ I am an aspiring Cloud Engineer and an incoming second-year Computer Science stu
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
+<p>
+  <img src="https://streak-stats.demolab.com/?user=ZaiFlux&theme=gruvbox_light&hide_border=false" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ZaiFlux&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
 
-![](https://streak-stats.demolab.com/?user=ZaiFlux&theme=gruvbox_light&hide_border=false)
-
-</td>
-<td align="center">
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ZaiFlux&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2" align="center">
-
-![](https://github-readme-stats.shion.dev/api?username=ZaiFlux&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)
-
-</td>
-</tr>
-</table>
+<p>
+  <img src="https://github-readme-stats.shion.dev/api?username=ZaiFlux&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true" />
+</p>
 
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
