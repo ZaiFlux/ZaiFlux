@@ -1,6 +1,4 @@
 # ☁️ Aspiring Cloud Engineer
-
-# 💫 About Me:
 I am an aspiring Cloud Engineer and an incoming second-year Computer Science student with a passion for cloud computing. I enjoy learning cloud technologies, infrastructure automation, and building scalable solutions through hands-on projects while continuously expanding my skills.
 
 
