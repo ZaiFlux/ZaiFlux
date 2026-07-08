@@ -2,10 +2,6 @@
 
 I am an aspiring Cloud Engineer and an incoming second-year Computer Science student with a passion for cloud computing. I enjoy learning cloud technologies, infrastructure automation, and building scalable solutions through hands-on projects while continuously expanding my skills.
 
-# 💫 About Me:
-I am an aspiring Cloud Engineer and an incoming second-year Computer Science student with a passion for cloud computing. I enjoy learning cloud technologies, infrastructure automation, and building scalable solutions through hands-on projects while continuously expanding my skills.
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/rodhel.condicion2025/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rodhel-condicion-71061939b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rodhelcondicion@gmail.com) 
 
