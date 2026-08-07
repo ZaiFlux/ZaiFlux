@@ -4,7 +4,7 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=100&section=header&reversal=true&text=Rodhel%20N.%20Condicion%20%7C%20Cloud%20Engineer&fontSize=45&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
-I am anaspiring Cloud Engineer and an incoming second-year Computer Science student with a passion for cloud computing. I enjoy learning cloud technologies, infrastructure automation, and building scalable solutions through hands-on projects while continuously expanding my skills.
+I am an aspiring Cloud Engineer and an incoming second-year Computer Science student with a passion for cloud computing. I enjoy learning cloud technologies, infrastructure automation, and building scalable solutions through hands-on projects while continuously expanding my skills.
 
 <p><b>💻 Tech Stack</b></p>
 
