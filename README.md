@@ -16,7 +16,8 @@ I am an aspiring Cloud Engineer and an incoming second-year Computer Science stu
 
 <p>
   <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ZaiFlux&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-  <img height="180em" src="https://streak-stats.demolab.com/?user=ZaiFlux&theme=gruvbox_light&hide_border=false" />
+  
+  <img height="180em" src="https://streak-stats.demolab.com/?user=ZaiFlux&theme=gruvbox-light&hide_border=false" />
 </p>
 
 <p>
@@ -24,7 +25,6 @@ I am an aspiring Cloud Engineer and an incoming second-year Computer Science stu
 </p>
 
 </div>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZaiFlux&theme=tokyo-night" />
 
 <p><b>🌐 Socials:</b></p>
